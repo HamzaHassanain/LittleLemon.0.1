@@ -2,8 +2,10 @@
 
 ### Created Using React js
 
-## [API Link](https://github.com/HamzaHassanain/LittleLemonAPI.0.0.1)
+### To run the project
 
-## DEMO Video
+```bash
+npm install
 
-[![Demo](./srcr.png)](https://youtu.be/ESge3YCMrDo)
+npm start
+```
