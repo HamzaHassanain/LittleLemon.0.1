@@ -13,12 +13,11 @@ Little Lemon is a fictional company for the Meta Backend- Developer Track
 ## 1- Installation
 
 - ### Clone the repository
+- - Make You are insde the API folder
 
 ```bash
 
-git https://github.com/HamzaHassanain/LittleLemonAPI.0.0.1.git
-
-cd LittleLemonAPI.0.0.1
+cd API
 
 ```
 
